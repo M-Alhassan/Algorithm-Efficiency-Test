@@ -3,15 +3,15 @@ A small experiment I did with python to test different types of algorithm's effi
 
 
 Most common Big Data applications:
-- `Goverment`: 
+- **Goverment:**
 Proccess efficiencies in terms of cost, productivity, and innovation without its flaws.
-- `Inernational development`:
+- **Inernational development:**
 Research on the effective usage of information and communication technologies for development 
-- `Healthcare`:
-Track infected people to minimise spread.
-- `Education`
-- `Media`
-- `Incurance`
+- **Healthcare:**
+Track people infected with COVID-19 to minimis the virus' spread.
+- **Education**
+- **Media**
+- **Incurance**
 
     ...
 
