@@ -49,6 +49,7 @@ Track infected people to minimise spread.
 
 [Note: python supports a limited number of recursive calls, so large numbers do not always work]
 
+Recursion is least efficient since the function has to add to the stack memory with each recursive call and keep the values there until the call is finished, the memory allocation is greater than that of an iterative function.
 
 ## 🔧 Installation
 
