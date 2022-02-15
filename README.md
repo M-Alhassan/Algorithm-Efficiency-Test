@@ -6,9 +6,9 @@ Most common Big Data applications:
 - **Goverment:**
 Proccess efficiencies in terms of cost, productivity, and innovation without its flaws.
 - **Inernational development:**
-Research on the effective usage of information and communication technologies for development 
+Research on the effective usage of information and communication technologies for development.
 - **Healthcare:**
-Track people infected with COVID-19 to minimis the virus' spread.
+Track people infected with COVID-19 to minimize the virus' spread.
 - **Education**
 - **Media**
 - **Incurance**
