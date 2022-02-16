@@ -58,7 +58,7 @@ def method_3(num):
 while(True):
     print("============================================================")
     num = int(input("Enter a number: "))
-    print("\n1. using a stack (fast)\n2. using nested a loop (slow)\n3. using recursion (slowest) (MAX 20,000)")
+    print("\n1. using Eratosthenes' Algorithm (fast)\n2. using nested a loop (slow)\n3. using recursion (slowest) (MAX 20,000)")
     option = input("\nChoose a method: ")
     print("\ncalculating...")
     if option == "1":

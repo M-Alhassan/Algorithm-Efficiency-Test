@@ -1,4 +1,4 @@
-# Algorithm-Efficiency-Test
+# Sieve-of-Eratosthenes-Algorithm-Test
 A small experiment I did with python to test different types of algorithm's effieciency. Algorithm efficiency plays a vital role in any program specially when dealing with Big Data.
 
 
@@ -17,6 +17,7 @@ Track people infected with COVID-19 to minimize the virus' spread.
 
     and lots more
 
+
 ## ⚙️ Technologies
 
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
@@ -27,19 +28,26 @@ Track people infected with COVID-19 to minimize the virus' spread.
 - Displays the execution time for each run.
 
 ## 💻 Supported operations
--   `stacks`: calculates the total number of prime numbers of a set using a single loop and a stack data structure.
+-   `Sieve of Eratosthenes`: Uses Sieve of Eratosthenes algorithm to find prime numbers.
 
-    Time complexity: O(n)
+Eratosthenes is an ancient algorithm for finding all prime numbers up to any given limit. It does so by iteratively marking as composite the multiples of each prime, starting with the first prime number, 2. The multiples of a given prime are generated as a sequence of numbers starting from that prime, with constant difference between them that is equal to that prime.
 
-    (most efficient)
+
+**Flowchart:**
+
+<img src = "img/Flowchart.png">
+
+Time complexity: O(n*log(log n))
+
+  (most efficient)
 
 <br>
 
-- `nested loops`: calcualtes the total prime numbers using nested loops.
+- `nested loops`: calcualtes the total prime numbers using nested loops and modular arithmetic.
 
-    Time complexity: O(n)^2
+Time complexity: O(n)^2
 
-    (less efficient but more accurate)
+ (less efficient but more accurate)
 
 <br>
 
